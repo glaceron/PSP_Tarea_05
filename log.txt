@@ -1,0 +1,18 @@
+may. 04, 2021 9:34:41 P. M. Main main
+WARNING: El nombre de usuario que se ha intentado introducir no es valido
+may. 04, 2021 9:34:47 P. M. Main main
+INFO: Se ha guardado el usuario correctamente
+may. 04, 2021 9:35:04 P. M. Main main
+INFO: Se ha guardado la contraseña correctamente
+may. 04, 2021 9:35:09 P. M. Main main
+INFO: Se ha guardado el email correctamente
+may. 04, 2021 9:35:14 P. M. Main main
+INFO: Se ha guardado el nombre del fichero correctamente
+may. 04, 2021 9:35:14 P. M. Main escribirFichero
+INFO: Fichero escrito correctamente
+may. 04, 2021 9:35:14 P. M. Main escribirFichero
+INFO: Fichero cerrado correctamente
+may. 04, 2021 9:35:14 P. M. Main leerFichero
+INFO: Fichero leido correctamente
+may. 04, 2021 9:35:14 P. M. Main leerFichero
+INFO: Fichero cerrado correctamente

@@ -1,0 +1,3 @@
+Nombre usuario: carlosus98
+Contraseña: Password1234
+Correo electronico: correo@gmail.com
